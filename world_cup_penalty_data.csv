@@ -1,280 +1,280 @@
-game_ID,year,host_country,stage,team,pre_penalties_score,won,winner_took_first_penalty,penalty_round,penalty_scored
-1,1982,Spain,Semi-finals,West Germany,3,True,False,1,True
-2,1986,Mexico,Quarter-finals,France,1,True,False,1,True
-3,1986,Mexico,Quarter-finals,West Germany,0,True,True,1,True
-4,1986,Mexico,Quarter-finals,Belgium,1,True,False,1,True
-5,1990,Italy,Second round,Republic of Ireland,0,True,False,1,True
-6,1990,Italy,Quarter-finals,Argentina,0,True,True,1,True
-7,1990,Italy,Quarter-finals,Argentina,1,True,False,1,True
-8,1990,Italy,Quarter-finals,West Germany,1,True,False,1,True
-9,1994,USA,Second round,Bulgaria,1,True,False,1,False
-10,1994,USA,Quarter-finals,Sweden,2,True,True,1,False
-11,1994,USA,Final,Brazil,0,True,False,1,False
-12,1998,France,Second round,Argentina,2,True,True,1,True
-13,1998,France,Quarter-finals,France,0,True,True,1,True
-14,1998,France,Semi-finals,Brazil,1,True,True,1,True
-15,2002,Korea/Japan,Second round,Spain,1,True,False,1,True
-16,2002,Korea/Japan,Quarter-finals,South Korea,0,True,True,1,True
-17,2006,Germany,Second round,Ukraine,0,True,True,1,False
-18,2006,Germany,Quarter-finals,Germany,1,True,True,1,True
-19,2006,Germany,Quarter-finals,Portugal,0,True,True,1,True
-20,2006,Germany,Final,Italy,1,True,True,1,True
-21,2010,South Africa,Second round,Paraguay,0,True,True,1,True
-22,2010,South Africa,Quarter-finals,Uruguay,1,True,True,1,True
-23,2014,Brazil,Second round,Brazil,1,True,True,1,True
-24,2014,Brazil,Second round,Costa Rica,1,True,True,1,True
-25,2014,Brazil,Quarter-finals,Netherlands,0,True,False,1,True
-26,2014,Brazil,Semi-finals,Argentina,0,True,False,1,True
-27,2018,Russia,Second round,Russia,1,True,False,1,True
-28,2018,Russia,Second round,Croatia,1,True,False,1,False
-29,2018,Russia,Second round,England,1,True,False,1,True
-30,2018,Russia,Quarter-finals,Croatia,2,True,False,1,True
-1,1982,Spain,Semi-finals,France,3,False,False,1,True
-2,1986,Mexico,Quarter-finals,Brazil,1,False,False,1,False
-3,1986,Mexico,Quarter-finals,Mexico,0,False,True,1,True
-4,1986,Mexico,Quarter-finals,Spain,1,False,False,1,True
-5,1990,Italy,Second round,Romania,0,False,False,1,True
-6,1990,Italy,Quarter-finals,Yugoslavia,0,False,True,1,False
-7,1990,Italy,Quarter-finals,Italy,1,False,False,1,True
-8,1990,Italy,Quarter-finals,England,1,False,False,1,True
-9,1994,USA,Second round,Mexico,1,False,False,1,False
-10,1994,USA,Quarter-finals,Romania,2,False,True,1,True
-11,1994,USA,Final,Italy,0,False,False,1,False
-12,1998,France,Second round,England,2,False,True,1,True
-13,1998,France,Quarter-finals,Italy,0,False,True,1,True
-14,1998,France,Semi-finals,Netherlands,1,False,True,1,True
-15,2002,Korea/Japan,Second round,Republic of Ireland,1,False,False,1,True
-16,2002,Korea/Japan,Quarter-finals,Spain,0,False,True,1,True
-17,2006,Germany,Second round,Switzerland,0,False,True,1,False
-18,2006,Germany,Quarter-finals,Argentina,1,False,True,1,True
-19,2006,Germany,Quarter-finals,England,0,False,True,1,False
-20,2006,Germany,Final,France,1,False,True,1,True
-21,2010,South Africa,Second round,Japan,0,False,True,1,True
-22,2010,South Africa,Quarter-finals,Ghana,1,False,True,1,True
-23,2014,Brazil,Second round,Chile,1,False,True,1,False
-24,2014,Brazil,Second round,Greece,1,False,True,1,True
-25,2014,Brazil,Quarter-finals,Costa Rica,0,False,False,1,True
-26,2014,Brazil,Semi-finals,Netherlands,0,False,False,1,False
-27,2018,Russia,Second round,Spain,1,False,False,1,True
-28,2018,Russia,Second round,Denmark,1,False,False,1,False
-29,2018,Russia,Second round,Colombia,1,False,False,1,True
-30,2018,Russia,Quarter-finals,Russia,2,False,False,1,False
-1,1982,Spain,Semi-finals,West Germany,3,True,False,2,True
-2,1986,Mexico,Quarter-finals,France,1,True,False,2,True
-3,1986,Mexico,Quarter-finals,West Germany,0,True,True,2,True
-4,1986,Mexico,Quarter-finals,Belgium,1,True,False,2,True
-5,1990,Italy,Second round,Republic of Ireland,0,True,False,2,True
-6,1990,Italy,Quarter-finals,Argentina,0,True,True,2,True
-7,1990,Italy,Quarter-finals,Argentina,1,True,False,2,True
-8,1990,Italy,Quarter-finals,West Germany,1,True,False,2,True
-9,1994,USA,Second round,Bulgaria,1,True,False,2,True
-10,1994,USA,Quarter-finals,Sweden,2,True,True,2,True
-11,1994,USA,Final,Brazil,0,True,False,2,True
-12,1998,France,Second round,Argentina,2,True,True,2,False
-13,1998,France,Quarter-finals,France,0,True,True,2,False
-14,1998,France,Semi-finals,Brazil,1,True,True,2,True
-15,2002,Korea/Japan,Second round,Spain,1,True,False,2,True
-16,2002,Korea/Japan,Quarter-finals,South Korea,0,True,True,2,True
-17,2006,Germany,Second round,Ukraine,0,True,True,2,True
-18,2006,Germany,Quarter-finals,Germany,1,True,True,2,True
-19,2006,Germany,Quarter-finals,Portugal,0,True,True,2,False
-20,2006,Germany,Final,Italy,1,True,True,2,True
-21,2010,South Africa,Second round,Paraguay,0,True,True,2,True
-22,2010,South Africa,Quarter-finals,Uruguay,1,True,True,2,True
-23,2014,Brazil,Second round,Brazil,1,True,True,2,False
-24,2014,Brazil,Second round,Costa Rica,1,True,True,2,True
-25,2014,Brazil,Quarter-finals,Netherlands,0,True,False,2,True
-26,2014,Brazil,Semi-finals,Argentina,0,True,False,2,True
-27,2018,Russia,Second round,Russia,1,True,False,2,True
-28,2018,Russia,Second round,Croatia,1,True,False,2,True
-29,2018,Russia,Second round,England,1,True,False,2,True
-30,2018,Russia,Quarter-finals,Croatia,2,True,False,2,False
-1,1982,Spain,Semi-finals,France,3,False,False,2,True
-2,1986,Mexico,Quarter-finals,Brazil,1,False,False,2,True
-3,1986,Mexico,Quarter-finals,Mexico,0,False,True,2,False
-4,1986,Mexico,Quarter-finals,Spain,1,False,False,2,False
-5,1990,Italy,Second round,Romania,0,False,False,2,True
-6,1990,Italy,Quarter-finals,Yugoslavia,0,False,True,2,True
-7,1990,Italy,Quarter-finals,Italy,1,False,False,2,True
-8,1990,Italy,Quarter-finals,England,1,False,False,2,True
-9,1994,USA,Second round,Mexico,1,False,False,2,False
-10,1994,USA,Quarter-finals,Romania,2,False,True,2,True
-11,1994,USA,Final,Italy,0,False,False,2,True
-12,1998,France,Second round,England,2,False,True,2,False
-13,1998,France,Quarter-finals,Italy,0,False,True,2,False
-14,1998,France,Semi-finals,Netherlands,1,False,True,2,True
-15,2002,Korea/Japan,Second round,Republic of Ireland,1,False,False,2,False
-16,2002,Korea/Japan,Quarter-finals,Spain,0,False,True,2,True
-17,2006,Germany,Second round,Switzerland,0,False,True,2,False
-18,2006,Germany,Quarter-finals,Argentina,1,False,True,2,False
-19,2006,Germany,Quarter-finals,England,0,False,True,2,True
-20,2006,Germany,Final,France,1,False,True,2,False
-21,2010,South Africa,Second round,Japan,0,False,True,2,True
-22,2010,South Africa,Quarter-finals,Ghana,1,False,True,2,True
-23,2014,Brazil,Second round,Chile,1,False,True,2,False
-24,2014,Brazil,Second round,Greece,1,False,True,2,True
-25,2014,Brazil,Quarter-finals,Costa Rica,0,False,False,2,False
-26,2014,Brazil,Semi-finals,Netherlands,0,False,False,2,True
-27,2018,Russia,Second round,Spain,1,False,False,2,True
-28,2018,Russia,Second round,Denmark,1,False,False,2,True
-29,2018,Russia,Second round,Colombia,1,False,False,2,True
-30,2018,Russia,Quarter-finals,Russia,2,False,False,2,True
-1,1982,Spain,Semi-finals,West Germany,3,True,False,3,False
-2,1986,Mexico,Quarter-finals,France,1,True,False,3,True
-3,1986,Mexico,Quarter-finals,West Germany,0,True,True,3,True
-4,1986,Mexico,Quarter-finals,Belgium,1,True,False,3,True
-5,1990,Italy,Second round,Republic of Ireland,0,True,False,3,True
-6,1990,Italy,Quarter-finals,Argentina,0,True,True,3,False
-7,1990,Italy,Quarter-finals,Argentina,1,True,False,3,True
-8,1990,Italy,Quarter-finals,West Germany,1,True,False,3,True
-9,1994,USA,Second round,Bulgaria,1,True,False,3,True
-10,1994,USA,Quarter-finals,Sweden,2,True,True,3,True
-11,1994,USA,Final,Brazil,0,True,False,3,True
-12,1998,France,Second round,Argentina,2,True,True,3,True
-13,1998,France,Quarter-finals,France,0,True,True,3,True
-14,1998,France,Semi-finals,Brazil,1,True,True,3,True
-15,2002,Korea/Japan,Second round,Spain,1,True,False,3,False
-16,2002,Korea/Japan,Quarter-finals,South Korea,0,True,True,3,True
-17,2006,Germany,Second round,Ukraine,0,True,True,3,True
-18,2006,Germany,Quarter-finals,Germany,1,True,True,3,True
-19,2006,Germany,Quarter-finals,Portugal,0,True,True,3,False
-20,2006,Germany,Final,Italy,1,True,True,3,True
-21,2010,South Africa,Second round,Paraguay,0,True,True,3,True
-22,2010,South Africa,Quarter-finals,Uruguay,1,True,True,3,True
-23,2014,Brazil,Second round,Brazil,1,True,True,3,True
-24,2014,Brazil,Second round,Costa Rica,1,True,True,3,True
-25,2014,Brazil,Quarter-finals,Netherlands,0,True,False,3,True
-26,2014,Brazil,Semi-finals,Argentina,0,True,False,3,True
-27,2018,Russia,Second round,Russia,1,True,False,3,True
-28,2018,Russia,Second round,Croatia,1,True,False,3,True
-29,2018,Russia,Second round,England,1,True,False,3,False
-30,2018,Russia,Quarter-finals,Croatia,2,True,False,3,True
-1,1982,Spain,Semi-finals,France,3,False,False,3,True
-2,1986,Mexico,Quarter-finals,Brazil,1,False,False,3,True
-3,1986,Mexico,Quarter-finals,Mexico,0,False,True,3,False
-4,1986,Mexico,Quarter-finals,Spain,1,False,False,3,True
-5,1990,Italy,Second round,Romania,0,False,False,3,True
-6,1990,Italy,Quarter-finals,Yugoslavia,0,False,True,3,True
-7,1990,Italy,Quarter-finals,Italy,1,False,False,3,True
-8,1990,Italy,Quarter-finals,England,1,False,False,3,True
-9,1994,USA,Second round,Mexico,1,False,False,3,False
-10,1994,USA,Quarter-finals,Romania,2,False,True,3,True
-11,1994,USA,Final,Italy,0,False,False,3,True
-12,1998,France,Second round,England,2,False,True,3,True
-13,1998,France,Quarter-finals,Italy,0,False,True,3,True
-14,1998,France,Semi-finals,Netherlands,1,False,True,3,False
-15,2002,Korea/Japan,Second round,Republic of Ireland,1,False,False,3,False
-16,2002,Korea/Japan,Quarter-finals,Spain,0,False,True,3,True
-17,2006,Germany,Second round,Switzerland,0,False,True,3,False
-18,2006,Germany,Quarter-finals,Argentina,1,False,True,3,True
-19,2006,Germany,Quarter-finals,England,0,False,True,3,False
-20,2006,Germany,Final,France,1,False,True,3,True
-21,2010,South Africa,Second round,Japan,0,False,True,3,False
-22,2010,South Africa,Quarter-finals,Ghana,1,False,True,3,False
-23,2014,Brazil,Second round,Chile,1,False,True,3,True
-24,2014,Brazil,Second round,Greece,1,False,True,3,True
-25,2014,Brazil,Quarter-finals,Costa Rica,0,False,False,3,True
-26,2014,Brazil,Semi-finals,Netherlands,0,False,False,3,False
-27,2018,Russia,Second round,Spain,1,False,False,3,False
-28,2018,Russia,Second round,Denmark,1,False,False,3,True
-29,2018,Russia,Second round,Colombia,1,False,False,3,True
-30,2018,Russia,Quarter-finals,Russia,2,False,False,3,False
-1,1982,Spain,Semi-finals,West Germany,3,True,False,4,True
-2,1986,Mexico,Quarter-finals,France,1,True,False,4,False
-3,1986,Mexico,Quarter-finals,West Germany,0,True,True,4,True
-4,1986,Mexico,Quarter-finals,Belgium,1,True,False,4,True
-5,1990,Italy,Second round,Republic of Ireland,0,True,False,4,True
-6,1990,Italy,Quarter-finals,Argentina,0,True,True,4,False
-7,1990,Italy,Quarter-finals,Argentina,1,True,False,4,True
-8,1990,Italy,Quarter-finals,West Germany,1,True,False,4,True
-9,1994,USA,Second round,Bulgaria,1,True,False,4,True
-10,1994,USA,Quarter-finals,Sweden,2,True,True,4,True
-11,1994,USA,Final,Brazil,0,True,False,4,True
-12,1998,France,Second round,Argentina,2,True,True,4,True
-13,1998,France,Quarter-finals,France,0,True,True,4,True
-14,1998,France,Semi-finals,Brazil,1,True,True,4,True
-15,2002,Korea/Japan,Second round,Spain,1,True,False,4,False
-16,2002,Korea/Japan,Quarter-finals,South Korea,0,True,True,4,True
-17,2006,Germany,Second round,Ukraine,0,True,True,4,True
-18,2006,Germany,Quarter-finals,Germany,1,True,True,4,True
-19,2006,Germany,Quarter-finals,Portugal,0,True,True,4,True
-20,2006,Germany,Final,Italy,1,True,True,4,True
-21,2010,South Africa,Second round,Paraguay,0,True,True,4,True
-22,2010,South Africa,Quarter-finals,Uruguay,1,True,True,4,False
-23,2014,Brazil,Second round,Brazil,1,True,True,4,False
-24,2014,Brazil,Second round,Costa Rica,1,True,True,4,True
-25,2014,Brazil,Quarter-finals,Netherlands,0,True,False,4,True
-26,2014,Brazil,Semi-finals,Argentina,0,True,False,4,True
-27,2018,Russia,Second round,Russia,1,True,False,4,True
-28,2018,Russia,Second round,Croatia,1,True,False,4,False
-29,2018,Russia,Second round,England,1,True,False,4,True
-30,2018,Russia,Quarter-finals,Croatia,2,True,False,4,True
-1,1982,Spain,Semi-finals,France,3,False,False,4,False
-2,1986,Mexico,Quarter-finals,Brazil,1,False,False,4,True
-4,1986,Mexico,Quarter-finals,Spain,1,False,False,4,True
-5,1990,Italy,Second round,Romania,0,False,False,4,True
-6,1990,Italy,Quarter-finals,Yugoslavia,0,False,True,4,False
-7,1990,Italy,Quarter-finals,Italy,1,False,False,4,False
-8,1990,Italy,Quarter-finals,England,1,False,False,4,False
-9,1994,USA,Second round,Mexico,1,False,False,4,True
-10,1994,USA,Quarter-finals,Romania,2,False,True,4,False
-11,1994,USA,Final,Italy,0,False,False,4,False
-12,1998,France,Second round,England,2,False,True,4,True
-13,1998,France,Quarter-finals,Italy,0,False,True,4,True
-14,1998,France,Semi-finals,Netherlands,1,False,True,4,False
-15,2002,Korea/Japan,Second round,Republic of Ireland,1,False,False,4,False
-16,2002,Korea/Japan,Quarter-finals,Spain,0,False,True,4,False
-18,2006,Germany,Quarter-finals,Argentina,1,False,True,4,False
-19,2006,Germany,Quarter-finals,England,0,False,True,4,False
-20,2006,Germany,Final,France,1,False,True,4,True
-21,2010,South Africa,Second round,Japan,0,False,True,4,True
-22,2010,South Africa,Quarter-finals,Ghana,1,False,True,4,False
-23,2014,Brazil,Second round,Chile,1,False,True,4,True
-24,2014,Brazil,Second round,Greece,1,False,True,4,False
-25,2014,Brazil,Quarter-finals,Costa Rica,0,False,False,4,True
-26,2014,Brazil,Semi-finals,Netherlands,0,False,False,4,True
-27,2018,Russia,Second round,Spain,1,False,False,4,True
-28,2018,Russia,Second round,Denmark,1,False,False,4,False
-29,2018,Russia,Second round,Colombia,1,False,False,4,False
-30,2018,Russia,Quarter-finals,Russia,2,False,False,4,True
-1,1982,Spain,Semi-finals,West Germany,3,True,False,5,True
-2,1986,Mexico,Quarter-finals,France,1,True,False,5,True
-4,1986,Mexico,Quarter-finals,Belgium,1,True,False,5,True
-5,1990,Italy,Second round,Republic of Ireland,0,True,False,5,True
-6,1990,Italy,Quarter-finals,Argentina,0,True,True,5,True
-10,1994,USA,Quarter-finals,Sweden,2,True,True,5,True
-12,1998,France,Second round,Argentina,2,True,True,5,True
-13,1998,France,Quarter-finals,France,0,True,True,5,True
-15,2002,Korea/Japan,Second round,Spain,1,True,False,5,True
-16,2002,Korea/Japan,Quarter-finals,South Korea,0,True,True,5,True
-19,2006,Germany,Quarter-finals,Portugal,0,True,True,5,True
-20,2006,Germany,Final,Italy,1,True,True,5,True
-21,2010,South Africa,Second round,Paraguay,0,True,True,5,True
-22,2010,South Africa,Quarter-finals,Uruguay,1,True,True,5,True
-23,2014,Brazil,Second round,Brazil,1,True,True,5,True
-24,2014,Brazil,Second round,Costa Rica,1,True,True,5,True
-28,2018,Russia,Second round,Croatia,1,True,False,5,True
-29,2018,Russia,Second round,England,1,True,False,5,True
-30,2018,Russia,Quarter-finals,Croatia,2,True,False,5,True
-1,1982,Spain,Semi-finals,France,3,False,False,5,True
-2,1986,Mexico,Quarter-finals,Brazil,1,False,False,5,False
-4,1986,Mexico,Quarter-finals,Spain,1,False,False,5,True
-5,1990,Italy,Second round,Romania,0,False,False,5,False
-6,1990,Italy,Quarter-finals,Yugoslavia,0,False,True,5,False
-7,1990,Italy,Quarter-finals,Italy,1,False,False,5,False
-8,1990,Italy,Quarter-finals,England,1,False,False,5,False
-10,1994,USA,Quarter-finals,Romania,2,False,True,5,True
-11,1994,USA,Final,Italy,0,False,False,5,False
-12,1998,France,Second round,England,2,False,True,5,False
-13,1998,France,Quarter-finals,Italy,0,False,True,5,False
-15,2002,Korea/Japan,Second round,Republic of Ireland,1,False,False,5,True
-23,2014,Brazil,Second round,Chile,1,False,True,5,False
-25,2014,Brazil,Quarter-finals,Costa Rica,0,False,False,5,False
-27,2018,Russia,Second round,Spain,1,False,False,5,False
-28,2018,Russia,Second round,Denmark,1,False,False,5,False
-29,2018,Russia,Second round,Colombia,1,False,False,5,False
-30,2018,Russia,Quarter-finals,Russia,2,False,False,5,True
-1,1982,Spain,Semi-finals,West Germany,3,True,False,6,True
-10,1994,USA,Quarter-finals,Sweden,2,True,True,6,True
-1,1982,Spain,Semi-finals,France,3,False,False,6,False
-10,1994,USA,Quarter-finals,Romania,2,False,True,6,False
+game_ID,year,host_country,stage,team,pre_penalties_score,won,winner_took_first_penalty,penalty_round,kick_in_round,penalty_scored,penalty_kicker
+1,1982,Spain,Semi-finals,West Germany,3,True,False,1,2,True,Manfred Kaltz
+2,1986,Mexico,Quarter-finals,France,1,True,False,1,2,True,Yannick Stopyra
+3,1986,Mexico,Quarter-finals,West Germany,0,True,True,1,1,True,Klaus Allofs
+4,1986,Mexico,Quarter-finals,Belgium,1,True,False,1,2,True,Nico Claesen
+5,1990,Italy,Second round,Republic of Ireland,0,True,False,1,2,True,Kevin Sheedy
+6,1990,Italy,Quarter-finals,Argentina,0,True,True,1,1,True,José Serrizuela
+7,1990,Italy,Quarter-finals,Argentina,1,True,False,1,2,True,José Serrizuela
+8,1990,Italy,Quarter-finals,West Germany,1,True,False,1,2,True,Andreas Brehme
+9,1994,USA,Second round,Bulgaria,1,True,False,1,2,False,Krasimir Balakov
+10,1994,USA,Quarter-finals,Sweden,2,True,True,1,1,False,Håkan Mild
+11,1994,USA,Final,Brazil,0,True,False,1,2,False,Márcio Santos
+12,1998,France,Second round,Argentina,2,True,True,1,1,True,Sergio Berti
+13,1998,France,Quarter-finals,France,0,True,True,1,1,True,Zinedine Zidane
+14,1998,France,Semi-finals,Brazil,1,True,True,1,1,True,Ronaldo
+15,2002,Korea/Japan,Second round,Spain,1,True,False,1,2,True,Fernando Hierro
+16,2002,Korea/Japan,Quarter-finals,South Korea,0,True,True,1,1,True,Hwang Sun-hong
+17,2006,Germany,Second round,Ukraine,0,True,True,1,1,False,Andriy Shevchenko
+18,2006,Germany,Quarter-finals,Germany,1,True,True,1,1,True,Oliver Neuville
+19,2006,Germany,Quarter-finals,Portugal,0,True,True,1,1,True,Simão Sabrosa
+20,2006,Germany,Final,Italy,1,True,True,1,1,True,Andrea Pirlo
+21,2010,South Africa,Second round,Paraguay,0,True,True,1,1,True,Édgar Barreto
+22,2010,South Africa,Quarter-finals,Uruguay,1,True,True,1,1,True,Diego Forlán
+23,2014,Brazil,Second round,Brazil,1,True,True,1,1,True,David Luiz
+24,2014,Brazil,Second round,Costa Rica,1,True,True,1,1,True,Celso Borges
+25,2014,Brazil,Quarter-finals,Netherlands,0,True,False,1,2,True,Robin van Persie
+26,2014,Brazil,Semi-finals,Argentina,0,True,False,1,2,True,Lionel Messi
+27,2018,Russia,Second round,Russia,1,True,False,1,2,True,Fyodor Smolov
+28,2018,Russia,Second round,Croatia,1,True,False,1,2,False,Milan Badelj
+29,2018,Russia,Second round,England,1,True,False,1,2,True,Harry Kane
+30,2018,Russia,Quarter-finals,Croatia,2,True,False,1,2,True,Marcelo Brozović
+1,1982,Spain,Semi-finals,France,3,False,False,1,1,True,Alain Giresse
+2,1986,Mexico,Quarter-finals,Brazil,1,False,False,1,1,False,Sócrates
+3,1986,Mexico,Quarter-finals,Mexico,0,False,True,1,2,True,Manuel Negrete Arias
+4,1986,Mexico,Quarter-finals,Spain,1,False,False,1,1,True,Juan Antonio Señor
+5,1990,Italy,Second round,Romania,0,False,False,1,1,True,Gheorghe Hagi
+6,1990,Italy,Quarter-finals,Yugoslavia,0,False,True,1,2,False,Dragan Stojković
+7,1990,Italy,Quarter-finals,Italy,1,False,False,1,1,True,Franco Baresi
+8,1990,Italy,Quarter-finals,England,1,False,False,1,1,True,Gary Lineker
+9,1994,USA,Second round,Mexico,1,False,False,1,1,False,Alberto García Aspe
+10,1994,USA,Quarter-finals,Romania,2,False,True,1,2,True,Florin Răducioiu
+11,1994,USA,Final,Italy,0,False,False,1,1,False,Franco Baresi
+12,1998,France,Second round,England,2,False,True,1,2,True,Alan Shearer
+13,1998,France,Quarter-finals,Italy,0,False,True,1,2,True,Roberto Baggio
+14,1998,France,Semi-finals,Netherlands,1,False,True,1,2,True,Frank de Boer
+15,2002,Korea/Japan,Second round,Republic of Ireland,1,False,False,1,1,True,Robbie Keane
+16,2002,Korea/Japan,Quarter-finals,Spain,0,False,True,1,2,True,Fernando Hierro
+17,2006,Germany,Second round,Switzerland,0,False,True,1,2,False,Marco Streller
+18,2006,Germany,Quarter-finals,Argentina,1,False,True,1,2,True,Julio Ricardo Cruz
+19,2006,Germany,Quarter-finals,England,0,False,True,1,2,False,Frank Lampard
+20,2006,Germany,Final,France,1,False,True,1,2,True,Sylvain Wiltord
+21,2010,South Africa,Second round,Japan,0,False,True,1,2,True,Yasuhito Endō
+22,2010,South Africa,Quarter-finals,Ghana,1,False,True,1,2,True,Asamoah Gyan
+23,2014,Brazil,Second round,Chile,1,False,True,1,2,False,Mauricio Pinilla
+24,2014,Brazil,Second round,Greece,1,False,True,1,2,True,Konstantinos Mitroglou
+25,2014,Brazil,Quarter-finals,Costa Rica,0,False,False,1,1,True,Celso Borges
+26,2014,Brazil,Semi-finals,Netherlands,0,False,False,1,1,False,Ron Vlaar
+27,2018,Russia,Second round,Spain,1,False,False,1,1,True,Andrés Iniesta
+28,2018,Russia,Second round,Denmark,1,False,False,1,1,False,Christian Eriksen
+29,2018,Russia,Second round,Colombia,1,False,False,1,1,True,Radamel Falcao
+30,2018,Russia,Quarter-finals,Russia,2,False,False,1,1,False,Fyodor Smolov
+1,1982,Spain,Semi-finals,West Germany,3,True,False,2,2,True,Paul Breitner
+2,1986,Mexico,Quarter-finals,France,1,True,False,2,2,True,Manuel Amoros
+3,1986,Mexico,Quarter-finals,West Germany,0,True,True,2,1,True,Andreas Brehme
+4,1986,Mexico,Quarter-finals,Belgium,1,True,False,2,2,True,Enzo Scifo
+5,1990,Italy,Second round,Republic of Ireland,0,True,False,2,2,True,Ray Houghton
+6,1990,Italy,Quarter-finals,Argentina,0,True,True,2,1,True,Jorge Burruchaga
+7,1990,Italy,Quarter-finals,Argentina,1,True,False,2,2,True,Jorge Burruchaga
+8,1990,Italy,Quarter-finals,West Germany,1,True,False,2,2,True,Lothar Matthäus
+9,1994,USA,Second round,Bulgaria,1,True,False,2,2,True,Boncho Genchev
+10,1994,USA,Quarter-finals,Sweden,2,True,True,2,1,True,Kennet Andersson
+11,1994,USA,Final,Brazil,0,True,False,2,2,True,Romário
+12,1998,France,Second round,Argentina,2,True,True,2,1,False,Hernán Crespo
+13,1998,France,Quarter-finals,France,0,True,True,2,1,False,Bixente Lizarazu
+14,1998,France,Semi-finals,Brazil,1,True,True,2,1,True,Rivaldo
+15,2002,Korea/Japan,Second round,Spain,1,True,False,2,2,True,Rubén Baraja
+16,2002,Korea/Japan,Quarter-finals,South Korea,0,True,True,2,1,True,Park Ji-sung
+17,2006,Germany,Second round,Ukraine,0,True,True,2,1,True,Artem Milevskiy
+18,2006,Germany,Quarter-finals,Germany,1,True,True,2,1,True,Michael Ballack
+19,2006,Germany,Quarter-finals,Portugal,0,True,True,2,1,False,Hugo Viana
+20,2006,Germany,Final,Italy,1,True,True,2,1,True,Marco Materazzi
+21,2010,South Africa,Second round,Paraguay,0,True,True,2,1,True,Lucas Barrios
+22,2010,South Africa,Quarter-finals,Uruguay,1,True,True,2,1,True,Mauricio Victorino
+23,2014,Brazil,Second round,Brazil,1,True,True,2,1,False,Willian
+24,2014,Brazil,Second round,Costa Rica,1,True,True,2,1,True,Bryan Ruiz
+25,2014,Brazil,Quarter-finals,Netherlands,0,True,False,2,2,True,Arjen Robben
+26,2014,Brazil,Semi-finals,Argentina,0,True,False,2,2,True,Ezequiel Garay
+27,2018,Russia,Second round,Russia,1,True,False,2,2,True,Sergei Ignashevich
+28,2018,Russia,Second round,Croatia,1,True,False,2,2,True,Andrej Kramarić
+29,2018,Russia,Second round,England,1,True,False,2,2,True,Marcus Rashford
+30,2018,Russia,Quarter-finals,Croatia,2,True,False,2,2,False,Mateo Kovačić
+1,1982,Spain,Semi-finals,France,3,False,False,2,1,True,Manuel Amoros
+2,1986,Mexico,Quarter-finals,Brazil,1,False,False,2,1,True,Alemão
+3,1986,Mexico,Quarter-finals,Mexico,0,False,True,2,2,False,Fernando Quirarte
+4,1986,Mexico,Quarter-finals,Spain,1,False,False,2,1,False,Eloy Olaya
+5,1990,Italy,Second round,Romania,0,False,False,2,1,True,Dănuț Lupu
+6,1990,Italy,Quarter-finals,Yugoslavia,0,False,True,2,2,True,Robert Prosinečki
+7,1990,Italy,Quarter-finals,Italy,1,False,False,2,1,True,Roberto Baggio
+8,1990,Italy,Quarter-finals,England,1,False,False,2,1,True,Peter Beardsley
+9,1994,USA,Second round,Mexico,1,False,False,2,1,False,Marcelino Bernal
+10,1994,USA,Quarter-finals,Romania,2,False,True,2,2,True,Gheorghe Hagi
+11,1994,USA,Final,Italy,0,False,False,2,1,True,Demetrio Albertini
+12,1998,France,Second round,England,2,False,True,2,2,False,Paul Ince
+13,1998,France,Quarter-finals,Italy,0,False,True,2,2,False,Demetrio Albertini
+14,1998,France,Semi-finals,Netherlands,1,False,True,2,2,True,Dennis Bergkamp
+15,2002,Korea/Japan,Second round,Republic of Ireland,1,False,False,2,1,False,Matt Holland
+16,2002,Korea/Japan,Quarter-finals,Spain,0,False,True,2,2,True,Rubén Baraja
+17,2006,Germany,Second round,Switzerland,0,False,True,2,2,False,Tranquillo Barnetta
+18,2006,Germany,Quarter-finals,Argentina,1,False,True,2,2,False,Roberto Ayala
+19,2006,Germany,Quarter-finals,England,0,False,True,2,2,True,Owen Hargreaves
+20,2006,Germany,Final,France,1,False,True,2,2,False,David Trezeguet
+21,2010,South Africa,Second round,Japan,0,False,True,2,2,True,Makoto Hasebe
+22,2010,South Africa,Quarter-finals,Ghana,1,False,True,2,2,True,Stephen Appiah
+23,2014,Brazil,Second round,Chile,1,False,True,2,2,False,Alexis Sánchez
+24,2014,Brazil,Second round,Greece,1,False,True,2,2,True,Lazaros Christodoulopoulos
+25,2014,Brazil,Quarter-finals,Costa Rica,0,False,False,2,1,False,Bryan Ruiz
+26,2014,Brazil,Semi-finals,Netherlands,0,False,False,2,1,True,Arjen Robben
+27,2018,Russia,Second round,Spain,1,False,False,2,1,True,Gerard Piqué
+28,2018,Russia,Second round,Denmark,1,False,False,2,1,True,Simon Kjær
+29,2018,Russia,Second round,Colombia,1,False,False,2,1,True,Juan Cuadrado
+30,2018,Russia,Quarter-finals,Russia,2,False,False,2,1,True,Alan Dzagoev
+1,1982,Spain,Semi-finals,West Germany,3,True,False,3,2,False,Uli Stielike
+2,1986,Mexico,Quarter-finals,France,1,True,False,3,2,True,Bruno Bellone
+3,1986,Mexico,Quarter-finals,West Germany,0,True,True,3,1,True,Lothar Matthäus
+4,1986,Mexico,Quarter-finals,Belgium,1,True,False,3,2,True,Hugo Broos
+5,1990,Italy,Second round,Republic of Ireland,0,True,False,3,2,True,Andy Townsend
+6,1990,Italy,Quarter-finals,Argentina,0,True,True,3,1,False,Diego Maradona
+7,1990,Italy,Quarter-finals,Argentina,1,True,False,3,2,True,Julio Olarticoechea
+8,1990,Italy,Quarter-finals,West Germany,1,True,False,3,2,True,Karl-Heinz Riedle
+9,1994,USA,Second round,Bulgaria,1,True,False,3,2,True,Daniel Borimirov
+10,1994,USA,Quarter-finals,Sweden,2,True,True,3,1,True,Tomas Brolin
+11,1994,USA,Final,Brazil,0,True,False,3,2,True,Branco
+12,1998,France,Second round,Argentina,2,True,True,3,1,True,Juan Sebastián Verón
+13,1998,France,Quarter-finals,France,0,True,True,3,1,True,David Trezeguet
+14,1998,France,Semi-finals,Brazil,1,True,True,3,1,True,Emerson
+15,2002,Korea/Japan,Second round,Spain,1,True,False,3,2,False,Juanfran
+16,2002,Korea/Japan,Quarter-finals,South Korea,0,True,True,3,1,True,Seol Ki-hyeon
+17,2006,Germany,Second round,Ukraine,0,True,True,3,1,True,Serhiy Rebrov
+18,2006,Germany,Quarter-finals,Germany,1,True,True,3,1,True,Lukas Podolski
+19,2006,Germany,Quarter-finals,Portugal,0,True,True,3,1,False,Petit
+20,2006,Germany,Final,Italy,1,True,True,3,1,True,Daniele De Rossi
+21,2010,South Africa,Second round,Paraguay,0,True,True,3,1,True,Cristian Riveros
+22,2010,South Africa,Quarter-finals,Uruguay,1,True,True,3,1,True,Andrés Scotti
+23,2014,Brazil,Second round,Brazil,1,True,True,3,1,True,Marcelo
+24,2014,Brazil,Second round,Costa Rica,1,True,True,3,1,True,Giancarlo González
+25,2014,Brazil,Quarter-finals,Netherlands,0,True,False,3,2,True,Wesley Sneijder
+26,2014,Brazil,Semi-finals,Argentina,0,True,False,3,2,True,Sergio Agüero
+27,2018,Russia,Second round,Russia,1,True,False,3,2,True,Aleksandr Golovin
+28,2018,Russia,Second round,Croatia,1,True,False,3,2,True,Luka Modrić
+29,2018,Russia,Second round,England,1,True,False,3,2,False,Jordan Henderson
+30,2018,Russia,Quarter-finals,Croatia,2,True,False,3,2,True,Luka Modrić
+1,1982,Spain,Semi-finals,France,3,False,False,3,1,True,Dominique Rocheteau
+2,1986,Mexico,Quarter-finals,Brazil,1,False,False,3,1,True,Zico
+3,1986,Mexico,Quarter-finals,Mexico,0,False,True,3,2,False,Raúl Servín
+4,1986,Mexico,Quarter-finals,Spain,1,False,False,3,1,True,Chendo
+5,1990,Italy,Second round,Romania,0,False,False,3,1,True,Iosif Rotariu
+6,1990,Italy,Quarter-finals,Yugoslavia,0,False,True,3,2,True,Dejan Savićević
+7,1990,Italy,Quarter-finals,Italy,1,False,False,3,1,True,Luigi De Agostini
+8,1990,Italy,Quarter-finals,England,1,False,False,3,1,True,David Platt
+9,1994,USA,Second round,Mexico,1,False,False,3,1,False,Jorge Rodríguez
+10,1994,USA,Quarter-finals,Romania,2,False,True,3,2,True,Ioan Lupescu
+11,1994,USA,Final,Italy,0,False,False,3,1,True,Alberigo Evani
+12,1998,France,Second round,England,2,False,True,3,2,True,Paul Merson
+13,1998,France,Quarter-finals,Italy,0,False,True,3,2,True,Alessandro Costacurta
+14,1998,France,Semi-finals,Netherlands,1,False,True,3,2,False,Phillip Cocu
+15,2002,Korea/Japan,Second round,Republic of Ireland,1,False,False,3,1,False,David Connolly
+16,2002,Korea/Japan,Quarter-finals,Spain,0,False,True,3,2,True,Xavi
+17,2006,Germany,Second round,Switzerland,0,False,True,3,2,False,Ricardo Cabanas
+18,2006,Germany,Quarter-finals,Argentina,1,False,True,3,2,True,Maxi Rodríguez
+19,2006,Germany,Quarter-finals,England,0,False,True,3,2,False,Steven Gerrard
+20,2006,Germany,Final,France,1,False,True,3,2,True,Éric Abidal
+21,2010,South Africa,Second round,Japan,0,False,True,3,2,False,Yūichi Komano
+22,2010,South Africa,Quarter-finals,Ghana,1,False,True,3,2,False,John Mensah
+23,2014,Brazil,Second round,Chile,1,False,True,3,2,True,Charles Aránguiz
+24,2014,Brazil,Second round,Greece,1,False,True,3,2,True,José Holebas
+25,2014,Brazil,Quarter-finals,Costa Rica,0,False,False,3,1,True,Giancarlo González
+26,2014,Brazil,Semi-finals,Netherlands,0,False,False,3,1,False,Wesley Sneijder
+27,2018,Russia,Second round,Spain,1,False,False,3,1,False,Koke
+28,2018,Russia,Second round,Denmark,1,False,False,3,1,True,Michael Krohn-Dehli
+29,2018,Russia,Second round,Colombia,1,False,False,3,1,True,Luis Muriel
+30,2018,Russia,Quarter-finals,Russia,2,False,False,3,1,False,Mário Fernandes
+1,1982,Spain,Semi-finals,West Germany,3,True,False,4,2,True,Pierre Littbarski
+2,1986,Mexico,Quarter-finals,France,1,True,False,4,2,False,Michel Platini
+3,1986,Mexico,Quarter-finals,West Germany,0,True,True,4,1,True,Pierre Littbarski
+4,1986,Mexico,Quarter-finals,Belgium,1,True,False,4,2,True,Patrick Vervoort
+5,1990,Italy,Second round,Republic of Ireland,0,True,False,4,2,True,Tony Cascarino
+6,1990,Italy,Quarter-finals,Argentina,0,True,True,4,1,False,Pedro Troglio
+7,1990,Italy,Quarter-finals,Argentina,1,True,False,4,2,True,Diego Maradona
+8,1990,Italy,Quarter-finals,West Germany,1,True,False,4,2,True,Olaf Thon
+9,1994,USA,Second round,Bulgaria,1,True,False,4,2,True,Yordan Letchkov
+10,1994,USA,Quarter-finals,Sweden,2,True,True,4,1,True,Klas Ingesson
+11,1994,USA,Final,Brazil,0,True,False,4,2,True,Dunga
+12,1998,France,Second round,Argentina,2,True,True,4,1,True,Marcelo Gallardo
+13,1998,France,Quarter-finals,France,0,True,True,4,1,True,Thierry Henry
+14,1998,France,Semi-finals,Brazil,1,True,True,4,1,True,Dunga
+15,2002,Korea/Japan,Second round,Spain,1,True,False,4,2,False,Juan Carlos Valerón
+16,2002,Korea/Japan,Quarter-finals,South Korea,0,True,True,4,1,True,Ahn Jung-hwan
+17,2006,Germany,Second round,Ukraine,0,True,True,4,1,True,Oleh Husyev
+18,2006,Germany,Quarter-finals,Germany,1,True,True,4,1,True,Tim Borowski
+19,2006,Germany,Quarter-finals,Portugal,0,True,True,4,1,True,Hélder Postiga
+20,2006,Germany,Final,Italy,1,True,True,4,1,True,Alessandro Del Piero
+21,2010,South Africa,Second round,Paraguay,0,True,True,4,1,True,Nelson Valdez
+22,2010,South Africa,Quarter-finals,Uruguay,1,True,True,4,1,False,Maxi Pereira
+23,2014,Brazil,Second round,Brazil,1,True,True,4,1,False,Hulk
+24,2014,Brazil,Second round,Costa Rica,1,True,True,4,1,True,Joel Campbell
+25,2014,Brazil,Quarter-finals,Netherlands,0,True,False,4,2,True,Dirk Kuyt
+26,2014,Brazil,Semi-finals,Argentina,0,True,False,4,2,True,Maxi Rodríguez
+27,2018,Russia,Second round,Russia,1,True,False,4,2,True,Denis Cheryshev
+28,2018,Russia,Second round,Croatia,1,True,False,4,2,False,Josip Pivarić
+29,2018,Russia,Second round,England,1,True,False,4,2,True,Kieran Trippier
+30,2018,Russia,Quarter-finals,Croatia,2,True,False,4,2,True,Domagoj Vida
+1,1982,Spain,Semi-finals,France,3,False,False,4,1,False,Didier Six
+2,1986,Mexico,Quarter-finals,Brazil,1,False,False,4,1,True,Branco
+4,1986,Mexico,Quarter-finals,Spain,1,False,False,4,1,True,Emilio Butragueño
+5,1990,Italy,Second round,Romania,0,False,False,4,1,True,Ioan Lupescu
+6,1990,Italy,Quarter-finals,Yugoslavia,0,False,True,4,2,False,Dragoljub Brnović
+7,1990,Italy,Quarter-finals,Italy,1,False,False,4,1,False,Roberto Donadoni
+8,1990,Italy,Quarter-finals,England,1,False,False,4,1,False,Stuart Pearce
+9,1994,USA,Second round,Mexico,1,False,False,4,1,True,Claudio Suárez
+10,1994,USA,Quarter-finals,Romania,2,False,True,4,2,False,Dan Petrescu
+11,1994,USA,Final,Italy,0,False,False,4,1,False,Daniele Massaro
+12,1998,France,Second round,England,2,False,True,4,2,True,Michael Owen
+13,1998,France,Quarter-finals,Italy,0,False,True,4,2,True,Christian Vieri
+14,1998,France,Semi-finals,Netherlands,1,False,True,4,2,False,Ronald de Boer
+15,2002,Korea/Japan,Second round,Republic of Ireland,1,False,False,4,1,False,Kevin Kilbane
+16,2002,Korea/Japan,Quarter-finals,Spain,0,False,True,4,2,False,Joaquín
+18,2006,Germany,Quarter-finals,Argentina,1,False,True,4,2,False,Esteban Cambiasso
+19,2006,Germany,Quarter-finals,England,0,False,True,4,2,False,Jamie Carragher
+20,2006,Germany,Final,France,1,False,True,4,2,True,Willy Sagnol
+21,2010,South Africa,Second round,Japan,0,False,True,4,2,True,Keisuke Honda
+22,2010,South Africa,Quarter-finals,Ghana,1,False,True,4,2,False,Dominic Adiyiah
+23,2014,Brazil,Second round,Chile,1,False,True,4,2,True,Marcelo Díaz
+24,2014,Brazil,Second round,Greece,1,False,True,4,2,False,Theofanis Gekas
+25,2014,Brazil,Quarter-finals,Costa Rica,0,False,False,4,1,True,Christian Bolaños
+26,2014,Brazil,Semi-finals,Netherlands,0,False,False,4,1,True,Dirk Kuyt
+27,2018,Russia,Second round,Spain,1,False,False,4,1,True,Sergio Ramos
+28,2018,Russia,Second round,Denmark,1,False,False,4,1,False,Lasse Schöne
+29,2018,Russia,Second round,Colombia,1,False,False,4,1,False,Mateus Uribe
+30,2018,Russia,Quarter-finals,Russia,2,False,False,4,1,True,Sergei Ignashevich
+1,1982,Spain,Semi-finals,West Germany,3,True,False,5,2,True,Karl-Heinz Rummenigge
+2,1986,Mexico,Quarter-finals,France,1,True,False,5,2,True,Luis Fernández
+4,1986,Mexico,Quarter-finals,Belgium,1,True,False,5,2,True,Leo Van der Elst
+5,1990,Italy,Second round,Republic of Ireland,0,True,False,5,2,True,David O'Leary
+6,1990,Italy,Quarter-finals,Argentina,0,True,True,5,1,True,Gustavo Dezotti
+10,1994,USA,Quarter-finals,Sweden,2,True,True,5,1,True,Roland Nilsson
+12,1998,France,Second round,Argentina,2,True,True,5,1,True,Roberto Ayala
+13,1998,France,Quarter-finals,France,0,True,True,5,1,True,Laurent Blanc
+15,2002,Korea/Japan,Second round,Spain,1,True,False,5,2,True,Gaizka Mendieta
+16,2002,Korea/Japan,Quarter-finals,South Korea,0,True,True,5,1,True,Hong Myung-bo
+19,2006,Germany,Quarter-finals,Portugal,0,True,True,5,1,True,Cristiano Ronaldo
+20,2006,Germany,Final,Italy,1,True,True,5,1,True,Fabio Grosso
+21,2010,South Africa,Second round,Paraguay,0,True,True,5,1,True,Óscar Cardozo
+22,2010,South Africa,Quarter-finals,Uruguay,1,True,True,5,1,True,Sebastián Abreu
+23,2014,Brazil,Second round,Brazil,1,True,True,5,1,True,Neymar
+24,2014,Brazil,Second round,Costa Rica,1,True,True,5,1,True,Michael Umaña
+28,2018,Russia,Second round,Croatia,1,True,False,5,2,True,Ivan Rakitić
+29,2018,Russia,Second round,England,1,True,False,5,2,True,Eric Dier
+30,2018,Russia,Quarter-finals,Croatia,2,True,False,5,2,True,Ivan Rakitić
+1,1982,Spain,Semi-finals,France,3,False,False,5,1,True,Michel Platini
+2,1986,Mexico,Quarter-finals,Brazil,1,False,False,5,1,False,Júlio César
+4,1986,Mexico,Quarter-finals,Spain,1,False,False,5,1,True,Víctor Muñoz
+5,1990,Italy,Second round,Romania,0,False,False,5,1,False,Daniel Timofte
+6,1990,Italy,Quarter-finals,Yugoslavia,0,False,True,5,2,False,Faruk Hadžibegić
+7,1990,Italy,Quarter-finals,Italy,1,False,False,5,1,False,Aldo Serena
+8,1990,Italy,Quarter-finals,England,1,False,False,5,1,False,Chris Waddle
+10,1994,USA,Quarter-finals,Romania,2,False,True,5,2,True,Ilie Dumitrescu
+11,1994,USA,Final,Italy,0,False,False,5,1,False,Roberto Baggio
+12,1998,France,Second round,England,2,False,True,5,2,False,David Batty
+13,1998,France,Quarter-finals,Italy,0,False,True,5,2,False,Luigi Di Biagio
+15,2002,Korea/Japan,Second round,Republic of Ireland,1,False,False,5,1,True,Steve Finnan
+23,2014,Brazil,Second round,Chile,1,False,True,5,2,False,Gonzalo Jara
+25,2014,Brazil,Quarter-finals,Costa Rica,0,False,False,5,1,False,Michael Umaña
+27,2018,Russia,Second round,Spain,1,False,False,5,1,False,Iago Aspas
+28,2018,Russia,Second round,Denmark,1,False,False,5,1,False,Nicolai Jørgensen
+29,2018,Russia,Second round,Colombia,1,False,False,5,1,False,Carlos Bacca
+30,2018,Russia,Quarter-finals,Russia,2,False,False,5,1,True,Daler Kuzyayev
+1,1982,Spain,Semi-finals,West Germany,3,True,False,6,2,True,Horst Hrubesch
+10,1994,USA,Quarter-finals,Sweden,2,True,True,6,1,True,Henrik Larsson
+1,1982,Spain,Semi-finals,France,3,False,False,6,1,False,Maxime Bossis
+10,1994,USA,Quarter-finals,Romania,2,False,True,6,2,False,Miodrag Belodedici
